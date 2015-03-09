@@ -14,7 +14,7 @@ class Sudoku{
 	int Grid[][];
 
 	/* The solve() method removes all the unknown characters ('x') in the Grid
-	 * and replace them with the numbers from 1-9 that satisfy the Sudoku puzzle. */
+	 * and replace them with the numbers from 1-N that satisfy the Sudoku puzzle. */
 
 	public void solve(){
 		
